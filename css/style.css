@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Arial;
+    src:url(../fonts/Arial.ttf);
+}
+
+@font-face {
+    font-family: MyriadPro;
+    src:url(../fonts/Myriad-pro.otf);
+}
+
+@font-face {
+    font-family: MyriadProReg;
+    src:url(../fonts/Myriad-pro-reg.ttf);
+}
+
+body{
+  background-image: url(../img/fon.png);
+  align-self: center;
+  font-family: Arial;
+}
+
+.mainbox{
+  margin: 5% 40% 5% 20%
+}
+
+.photo{
+  padding-left: 25%
+}
+
+.name{
+  font-size: 24pt;
+  font-family: Arial;
+}
+
+.headline{
+  font-size: 18pt;
+  font-family: MyriadPro;
+  }
+
+.simpletext{
+  font-size: 14pt;
+  font-family: MyriadProReg;
+  padding-left: 5%
+}
