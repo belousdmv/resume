@@ -15,30 +15,37 @@
 
 body{
   background-image: url(../img/fon.png);
-  align-self: center;
   font-family: Arial;
 }
 
 .mainbox{
-  margin: 5% 40% 5% 20%
-}
+  height: 1024px;
+  width: 1024px;
+  margin:0 auto;
+  }
 
 .photo{
   padding-left: 25%
 }
 
 .name{
-  font-size: 24pt;
+  font-size: 26pt;
   font-family: Arial;
 }
 
 .headline{
-  font-size: 18pt;
+  font-size: 16pt;
   font-family: MyriadPro;
   }
 
 .simpletext{
-  font-size: 14pt;
+  font-size: 12pt;
   font-family: MyriadProReg;
+  padding-left: 5%
+}
+
+.aboutme{
+  font-size: 14pt;
+  font-family: Arial;
   padding-left: 5%
 }
